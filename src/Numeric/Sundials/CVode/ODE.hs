@@ -117,6 +117,7 @@ C.include "<nvector/nvector_serial.h>"    -- serial N_Vector types, fcts., macro
 C.include "<sunmatrix/sunmatrix_dense.h>" -- access to dense SUNMatrix
 C.include "<sunlinsol/sunlinsol_dense.h>" -- access to dense SUNLinearSolver
 C.include "<cvode/cvode_direct.h>"        -- access to CVDls interface
+C.include "<cvode/cvode_diag.h>"          -- CVDiag
 C.include "<sundials/sundials_types.h>"   -- definition of type realtype
 C.include "<sundials/sundials_math.h>"
 C.include "../../../helpers.h"
